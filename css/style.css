@@ -496,6 +496,7 @@ h6 {
   -webkit-text-decoration-line: line-through;
           text-decoration-line: line-through;
   color: #000000;
+  margin-left: 10px;
 }
 
 .price {
@@ -559,6 +560,7 @@ h6 {
   font-weight: 300;
   font-size: 12px;
   line-height: 15px;
+  margin-left: 10px;
 }
 
 .button-form {
